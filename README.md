@@ -63,11 +63,11 @@
   <a href="https://github.com/Lvasp16rnd/API_ReviewStation" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lvasp16rnd&repo=API_ReviewStation&theme=dracula&hide_border=true&title_color=00bfbf&icon_color=00bfbf&bg_color=0d1117" alt="API_ReviewStation" />
   </a>
-  <a href="https://github.com/Lvasp16rnd/ReviewStation" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lvasp16rnd&repo=ReviewStation&theme=dracula&hide_border=true&title_color=00bfbf&icon_color=00bfbf&bg_color=0d1117" alt="ReviewStation" />
+  <a href="https://github.com/Lvasp16rnd/CommunityHub" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lvasp16rnd&repo=CommunityHub&theme=dracula&hide_border=true&title_color=00bfbf&icon_color=00bfbf&bg_color=0d1117" alt="CommunityHub" />
   </a>
-  <a href="https://github.com/Lvasp16rnd/SportNews_API" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lvasp16rnd&repo=SportNews_API&theme=dracula&hide_border=true&title_color=00bfbf&icon_color=00bfbf&bg_color=0d1117" alt="SportNews_API" />
+  <a href="https://github.com/Lvasp16rnd/HealthPay" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lvasp16rnd&repo=HealthPay&theme=dracula&hide_border=true&title_color=00bfbf&icon_color=00bfbf&bg_color=0d1117" alt="HealthPay" />
   </a>
 </div>
 
